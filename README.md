@@ -1,6 +1,4 @@
 - Hello, I’m @Clyde-Kareithi
-- I’m interested in SQL, HTML, CSS
-- I’m currently learning Javascript 
 - I’m looking to collaborate on most projects
 - How to reach me klydedavid1@gmail.com
 
